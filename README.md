@@ -44,7 +44,7 @@ Create a new .cpp file and use the following code.
 ```
 //File: main.cpp
 //Name: (Your name here)
-//Class: TOOP03
+//Class: TOOP05
 //Description: Walk through of the basics of C++
 //Date: (Today's date)
 
