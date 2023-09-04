@@ -2,7 +2,7 @@
 ## Overview
 Let's compile your first program in VSCode!  This example is based upon [cplusplus.com](https://www.cplusplus.com/doc/tutorial/program_structure/)
 
-## Procedures
+## Your first program
 ### Step 1
 Open VS Code. 
 
@@ -30,9 +30,9 @@ int main()
 }
 ```
 ### Step 5
-Select the Run and Debug icon.  When prompted, be sure to select `C/C++:g++ build and dubug active file`. This ensures that you use the G++ compilere that you installed previously.
+Select the Run and Debug icon.  When prompted, be sure to select `C/C++:g++ build and dubug active file`. This ensures that you use the G++ compiler that you installed previously.
 
-Once you have selected that you shoudl be able to see the result of your program in the terminal window at the bottom of VS Code.
+Once you have selected that you should be able to see the result of your program in the terminal window at the bottom of VS Code.
 
 
 
