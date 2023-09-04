@@ -34,6 +34,38 @@ Select the Run and Debug icon.  When prompted, be sure to select `C/C++:g++ buil
 
 Once you have selected that you should be able to see the result of your program in the terminal window at the bottom of VS Code.
 
+## More Practice
+### Step 1
+Create a new project directory and open the directory in vscode
+
+### Step 2
+Create a new .cpp file and use the following code.
+
+```
+//File: main.cpp
+//Name: (Your name here)
+//Class: TOOP03
+//Description: Walk through of the basics of C++
+//Date: (Today's date)
+
+#include <iostream>
+
+int main()
+{
+  int i = 100;
+  char c = '!';
+  double d = 20.01;
+  bool b = true;
+  std:cout << "i times d is " << i*d;
+  return 0;
+}
+```
+
+### Step 3
+Add a comment to each row of code with some notes and observations of what that line of code does.
+
+
+
 
 
   
