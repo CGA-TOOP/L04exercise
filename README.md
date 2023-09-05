@@ -56,7 +56,7 @@ int main()
   char c = '!';
   double d = 20.01;
   bool b = true;
-  std:cout << "i times d is " << i*d;
+  std::cout << "i times d is " << i*d;
   return 0;
 }
 ```
